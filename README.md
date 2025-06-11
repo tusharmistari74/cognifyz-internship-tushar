@@ -52,3 +52,17 @@ Cognifyz_Tasks/
 ├── task6_interactive_web_scraper.py
 ├── Tushar_cognifyz_certificate.pdf
 └── README.md
+🖥️ How to Run
+bash
+Copy code
+# Example: run task 6
+python task6_interactive_web_scraper.py
+Each task is written in pure Python and can be executed via terminal.
+
+📄 Certificate of Completion
+🙏 Thank You
+Big thanks to Cognifyz Technologies for providing this opportunity to grow my development skills and complete real-world tasks.
+
+Feel free to explore this repository and connect with me on LinkedIn 📬
+
+#python #cognifyz #softwaredevelopment #internship #webscraping #fileio #consoleapps #projects
